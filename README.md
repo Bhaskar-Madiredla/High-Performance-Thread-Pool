@@ -27,6 +27,10 @@ The pool was benchmarked on an 8-core ARM64 processor (Apple Silicon) by stress-
 
 1. **Clone the repository** (if applicable) or save the source code to `main.cpp`.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 2. **Compile the code** 
 Using Apple Clang (macOS) or GCC (Linux), ensure you link the pthread library:
 ```bash
